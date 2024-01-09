@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
-    color: #000000;
+    color: #535151f1;
 }
 
 .banner{
@@ -86,7 +86,7 @@ button{
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid #4e56c4;
+    border: 2px solid #5979d1;
     background: transparent;
     cursor: pointer;
     position: relative;
@@ -94,7 +94,7 @@ button{
     text-transform: uppercase;
 }
 span{
-    background: #009688;
+    background: #6f99e7;
     height: 100%;
     width: 0;
     position: absolute;
